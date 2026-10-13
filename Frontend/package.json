@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "proxy-addr": "2.0.8",
+    "brace-expansion": "1.1.18",
+    "source-map-js": "1.2.2",
+    "compression": "1.8.2"
   }
 }
